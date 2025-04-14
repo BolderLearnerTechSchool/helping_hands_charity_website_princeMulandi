@@ -169,7 +169,7 @@ Commit this change to your repository.
 
 Before you can build any page, be it `index.html`, `about.html`, or `donate.html`, you need to break that page into sections. Let us use the [contact.html](https://helping-hands-charity.netlify.app/contact) page as an example:
 
-![contact page](./app/static/images/blts_contact_page.png)
+![contact page](./repo_images/blts_contact_page.gif)
 
 This page seems to have five parts:
 
@@ -228,10 +228,10 @@ In your `contact.html` page, you need to clearly define these sections. Here is 
     </section>
     <!-- end of map section -->
 
-     <!-- Start of footer section -->
-    <section class="contact">
+    <!-- Start of footer section -->
+    <footer class="footer">
 
-    </section>
+    </footer>
     <!-- end of footer section -->
 
     <script 
